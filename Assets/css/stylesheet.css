@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    /* font-family: Serif; */
+}
+
+img {
+    width: 10%;
+}
+
+#arial {
+    font-family: Arial;
+}
+
+#colorRed {
+    color: red;
+}
+
+#colorBleu {
+    color: blue;
+}
+
+#colorGreen {
+    color: green;
+}
+
+#monospace {
+    font-family: monospace;
+}
+
+#bgRed {
+    background-color: red;
+}
+#bgBleu {
+    background-color: blue;
+}
+#bgGreen {
+    background-color: green;
+}
+
+footer {
+    text-align: center;
+    font-size: 10px;
+}
+
+footer img {
+    width: 60px;
+}
